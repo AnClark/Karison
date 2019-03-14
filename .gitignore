@@ -1,0 +1,5 @@
+# Python cache directory
+__pycache__
+
+# Test items marked with "^"
+^*
